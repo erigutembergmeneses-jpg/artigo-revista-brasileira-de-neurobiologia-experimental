@@ -1,0 +1,72 @@
+# O Réu Fantasma — Conteúdo Complementar: Justiça Neurocompatível
+
+Este repositório contém o artigo científico **"Justiça Neurocompatível: Fundamentos Científicos, Jurisprudência Emergente e a Medida Neuropsicosocioeducativa (NPSe)"**, escrito por **Erigutemberg Meneses**, como material complementar ao livro *O Réu Fantasma: Justiça Neurocompatível e o Direito de Recomeçar*.
+
+O conteúdo é destinado à hospedagem no site oficial do livro (ex: `www.o-reu-fantasma.com.br/artigo-neurocompativel`), com finalidade de aprofundamento teórico, acesso acadêmico e apoio a debates jurídico-científicos.
+
+---
+
+## 📁 Estrutura do Repositório
+
+.
+├── index.html # Artigo formatado para web (HTML5, acessível, responsivo)
+├── README.md # Este arquivo — instruções, metadados e licença
+└── assets/ # (opcional) pasta futura para imagens, PDFs ou dados
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+---
+
+## 🛠️ Como Usar
+
+### Para desenvolvedores
+1. Faça clone deste repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/reu-fantasma-artigo.git
+Abra index.html em qualquer navegador — funciona offline.
+Para integração em CMS (WordPress, Hugo, etc.), copie o conteúdo do <body> e adicione ao tema, mantendo os estilos ou adaptando ao CSS do site.
+Para não técnicos
+O arquivo index.html pode ser carregado diretamente no servidor web (ex: via S3 + CloudFront, Netlify, Vercel).
+Recomenda-se hospedagem em domínio próprio com HTTPS e suporte a metadados Open Graph (para compartilhamento em redes).
+✅ Funcionalidades
+✅ Formatação ABNT nas referências (com links ativos para DOIs e jurisprudências).
+✅ Destaque visual para citações diretas e decisões judiciais.
+✅ Totalmente responsivo (mobile-friendly).
+✅ Acessibilidade: tags semânticas, contraste adequado, lang="pt-BR".
+✅ Links verificados (novembro/2025); todos os URLs funcionais.
+📜 Licença
+Todo o conteúdo textual (artigo, estrutura, estilo) é de autoria exclusiva de José Erigutemberg Meneses de Lima.
+
+Uso permitido:
+
+Reprodução integral em sites institucionais, acadêmicos ou de divulgação científica, desde que:
+Mantida a autoria e a data;
+Incluída a frase: "Conteúdo complementar ao livro 'O Réu Fantasma', Erigutemberg Meneses, 2025."
+Link para o site oficial do livro (quando aplicável).
+Proibido:
+
+Uso comercial sem autorização prévia escrita.
+Alteração do conteúdo sem crédito à versão original.
+Extração de trechos como base para pareceres jurídicos sem revisão técnica por profissional habilitado.
+Contato para autorizações: erigutemberg.meneses@exemplo.com (substitua pelo e-mail real) 
+
+📅 Atualizações
+10/11/2025: Versão 1.0 publicada — artigo completo + HTML funcional.
+Próximas atualizações podem incluir:
+Versão PDF com layout editorial (LaTeX → PDF/A);
+Tradução para inglês/espanhol;
+Infográfico interativo sobre a NPSe.
+Blumenau, SC — 10 de novembro de 2025
+Erigutemberg Meneses
+Escritor, pesquisador em neurodireito
+Autor de mais de 30 livros — entre eles, O Réu Fantasma (2025, Editora Jurídica da Memória)
